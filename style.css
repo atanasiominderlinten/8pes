@@ -34,12 +34,12 @@ h2 {
   display: inline;
 }
 
-@media (max-width:768px){
+@media (max-width:1200px){
     body, h1, h2 {
         font-size: 1.6em;
     }
 }
-@media (min-width:768px){
+@media (min-width:1200px){
     body, h1, h2 {
         font-size: 1.4em;
     }
