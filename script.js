@@ -20,7 +20,7 @@ jQuery(document).ready(function () {
 			{ src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Berlin 2-D', ID: 24, albumID: 2},
       
 		],
-    itemsBaseURL: 'http://nanogallery2.nanostudio.org/samples/',
+    itemsBaseURL: 'https://atanasiominderlinten.github.io/8pes/',
 		locationHash: false,
 
           // GALLERY AND THUMBNAIL LAYOUT
