@@ -14,7 +14,7 @@ jQuery(document).ready(function () {
 
       // album 2
       { src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Consola', ID: 2, kind: 'album'},
-			{ src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Berlin 2-A', ID: 21, albumID: 2},
+			{ src: 'consola_001.jpeg', srct: 'consola_001t.jpg', title: 'Consola', ID: 21, albumID: 2},
 			{ src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Berlin 2-B', ID: 22, albumID: 2},
 			{ src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Berlin 2-C', ID: 23, albumID: 2},
 			{ src: 'berlin2.jpg', srct: 'berlin2t.jpg', title: 'Berlin 2-D', ID: 24, albumID: 2},
