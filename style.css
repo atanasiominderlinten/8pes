@@ -37,7 +37,7 @@ h2 {
 
 @media (max-width:1200px){
     body, h1, h2 {
-        font-size: 2em;
+        font-size: 1.7em;
     }
 }
 @media (min-width:1200px){
