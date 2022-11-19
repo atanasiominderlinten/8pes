@@ -25,6 +25,9 @@ body {
     height:20px;
     /* padding: 30px 40px; */
     text-align:center;
+position: fixed;
+  left: 0;
+  bottom: 0;
 }
 
 /*
