@@ -21,13 +21,12 @@ body {
     color:#000;
     margin: 0 auto;
     font-family: 'Bebas Neue', cursive;
-  font-size: 1em;
-    height:20px;
+    font-size: 1em;
+    height:25px;
     /* padding: 30px 40px; */
     text-align:center;
-position: fixed;
-  left: 0;
-  bottom: 0;
+    position: fixed;
+    bottom: 0;
 }
 
 /*
