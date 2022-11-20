@@ -12,7 +12,7 @@ body {
     padding: 40px 50px;
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
-    height:auto;
+    height: 100%;
     /* padding: 30px 40px;
     text-align:center; */
 }
@@ -33,7 +33,7 @@ body {
     /*position: fixed;*/
     text-align:center;
     font-size: 1em;
-    height: 28px;
+    height: 30px;
     background-color: #fff;
     bottom: 0px;
     left: 0px;
