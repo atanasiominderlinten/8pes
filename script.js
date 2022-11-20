@@ -43,7 +43,7 @@ jQuery(document).ready(function () {
 			{ src: 'historia_002.jpg', srct: 'historia_002t.jpg', title: 'Os talleres de Alberdi', ID: 51, albumID: 5},
       
       // especificacions tecnicas
-      { src: 'especificacions.jpg', srct: 'indexespecificacions.png', title: '', ID: 6},
+      { src: 'especificacions.png', srct: 'indexespecificacions.png', title: '', ID: 6},
       
 		],
     itemsBaseURL: 'https://atanasiominderlinten.github.io/8pes/',
