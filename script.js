@@ -53,8 +53,6 @@ jQuery(document).ready(function () {
 		],
     itemsBaseURL: 'https://atanasiominderlinten.github.io/8pes/',
     
-    thumbnailLevelUp: true,
-    displayBreadcrumb: false,
     locationHash: true,
 
           // GALLERY AND THUMBNAIL LAYOUT
