@@ -22,10 +22,7 @@ jQuery(document).ready(function () {
 			{ src: 'consola_004.jpg', srct: 'consola_004t.jpg', title: 'Centraliña electrónica da consola', ID: 24, albumID: 2},
 			{ src: 'consola_005.jpg', srct: 'consola_005t.jpg', title: 'Contactos electrónicos dos secretos', ID: 25, albumID: 2},
 			{ src: 'consola_006.jpg', srct: 'consola_006t.jpg', title: 'Relés eléctricos dos secretos', ID: 26, albumID: 2},
-      
-			{ src: 'testvideo.ogv', srct: 'consola_006t.jpg', title: 'VIDEO TEST 1', ID: 27, albumID: 2},
-			{ src: 'https://vimeo.com/492143653', srct: 'consola_006t.jpg', title: 'VIDEO TEST 2', ID: 28, albumID: 2},
-			{ src: 'https://vimeo.com/242313040', srct: 'consola_001t.jpg', title: 'VIDEO TEST 3 Vimeo', ID: 29, albumID: 2},
+    
       
       // album tubos
       { src: 'indextubos.jpg', srct: 'indextubos.jpg', title: 'Tubos', ID: 4, kind: 'album'},
