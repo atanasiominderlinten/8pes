@@ -31,6 +31,7 @@ jQuery(document).ready(function () {
 			{ src: 'tubos_001b.jpg', srct: 'tubos_001bt.jpg', title: 'Tubos do rexistro de Trompeta Real 8’', ID: 41, albumID: 4},
 			{ src: 'tubos_002.jpg', srct: 'tubos_002.jpg', title: 'Tubos do «Órgano mayor»', ID: 42, albumID: 4},
 			{ src: 'tubos_003.jpg', srct: 'tubos_003.jpg', title: 'Tubos do «Órgano mayor»', ID: 43, albumID: 4},
+		{ src: 'video_002.gif', srct: 'video_002t.jpg', title: 'Caixa expresiva', ID: 99, albumID: 4},
 			{ src: 'tubos_004.jpg', srct: 'tubos_004.jpg', title: 'Tubos do «Recitativo»', ID: 44, albumID: 4},
 			{ src: 'tubos_005.jpg', srct: 'tubos_005.jpg', title: 'Tubos do «Pedal»', ID: 45, albumID: 4},
 			{ src: 'tubos_006.jpg', srct: 'tubos_006.jpg', title: 'Tubos do «Pedal»', ID: 46, albumID: 4},
