@@ -1,6 +1,6 @@
 body {
-    background:#000;
-    color:#000;
+    background:#03000b;
+    color:#03000b;
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;  
 }
@@ -12,7 +12,7 @@ body {
 }
 
 #wrapper {
-    background:#000;
+    background:#03000b;
     color:#eee;
     padding-left: 50px;
     padding-right: 50px;
@@ -26,7 +26,7 @@ body {
     text-align:center;
     font-size: 1em;
     background-color: #fff;
-    color:#000;
+    color:#03000b;
 
     position: absolute;
     bottom: 0;
